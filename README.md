@@ -7,8 +7,11 @@ other files are images and database files
 
 # Libraries used
 Tkinter
+
 webbrowser
+
 winsound
+
 sqlite3 database
 
 # Note
